@@ -3,17 +3,17 @@
 #include <math.h>
 using namespace std;
 
-double AddFuc(double add1, double add2);
+float AddFuc(float add1, float add2);
 
 void main()
 {
-	double re = AddFuc(2.34, 7.63);
-	cout << "结果为" << re << endl;
+	float re = AddFuc(2.34, 7.63);
+	cout << "陆谩鹿没脦陋" << re << endl;
 	system("pause");
 }
 
 
-double AddFuc(double add1, double add2)
+float AddFuc(float add1, float add2)
 {
 	return add1 + add2;
 
