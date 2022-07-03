@@ -1,3 +1,3 @@
-# GitLaunch\n
-THIS IS MY FIRST GIT FILE.\n
-GIT,LAUNCH!\n
+¼Ó·¨ÔËËã
+
+func add
